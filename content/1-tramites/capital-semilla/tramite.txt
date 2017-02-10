@@ -1,4 +1,4 @@
-Title: Capital Semilla
+Title: Fondo Semilla
 
 ----
 
@@ -10,4 +10,8 @@ Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus si
 
 ----
 
-Tags: plata,financiamiento,pymes,beneficios
+Tags: financiamiento,emprendedor
+
+----
+
+Url: 
