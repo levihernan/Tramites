@@ -8,3 +8,5 @@ password: >
   $2a$10$1VuB8/PiiGRkc9LZ5MVbW.WDKG5xspKnbfkMfnFXs9Ccpdmbm365C
 language: en
 role: editor
+history:
+  - tramites/fondear
