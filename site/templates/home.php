@@ -3,7 +3,7 @@
   <main class="main" role="main">
 
   <?php foreach($site->page('tramites')->children() as $tramite): ?>
-    <div class="panel-container">
+    <div class="panel-container <?= $tramite->tags() ?>">
       <div class="panel">
         <div class="panel-header">
           <h1><?= $tramite->calltoaction() ?></h1>

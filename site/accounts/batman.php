@@ -7,5 +7,5 @@ email: mail@gmail.com
 language: en
 role: admin
 history:
-  - tramites/tramite-2
   - tramites/capital-semilla
+  - tramites/tramite-2
