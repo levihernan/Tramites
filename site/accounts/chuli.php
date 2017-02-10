@@ -12,5 +12,5 @@ history:
   - tramites
   - tramites/pac-empresas
   - tramites/fondear
-  - tramites/capital-semilla
-  - tramites/academia-argentina-emprende
+  - tramites/capacitacion-pyme
+  - tramites/fondo-aceleracion

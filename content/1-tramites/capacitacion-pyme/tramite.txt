@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Tags: capacitacion,bono fiscal,pymes
+Tags: capacitacion,pymes,bonofiscal
 
 ----
 

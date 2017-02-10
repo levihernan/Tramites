@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Tags: anr,<400,60% del proyecto,gastos en servicios profesionales,gastos en capacitaciones,gastos en b de c,b de c,gastos en certificacion,>2añospyme,pymes
+Tags: anr,pymes,financiamiento,gastosenbdec,bdec,gastosencertificacion,gastosenserviciosprofesionales,gastosencapacitaciones,hasta400mil,60porcientodelproyecto,pymedemasde2anos
 
 ----
 
