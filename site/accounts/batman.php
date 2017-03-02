@@ -7,5 +7,8 @@ email: mail@gmail.com
 language: en
 role: admin
 history:
-  - tramites/capital-semilla
-  - tramites/tramite-2
+  - tramites/academia-argentina-emprende
+  - tramites/fondo-aceleracion
+  - tramites/sgr
+  - tramites/programa-nacional-de-transformacion-productiva
+  - tramites/pac-empresas

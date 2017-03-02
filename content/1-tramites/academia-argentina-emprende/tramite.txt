@@ -2,11 +2,11 @@ Title: Academia Argentina Emprende
 
 ----
 
-Calltoaction: 
+Calltoaction: Emprendé
 
 ----
 
-Description: 
+Description: lorem ipsum
 
 ----
 

@@ -1,0 +1,17 @@
+Title: Sistema de Garantías Recíprocas
+
+----
+
+Calltoaction: Conseguí tu garantía
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque cursus enim neque, ac blandit felis ullamcorper eu. Ut enim ante, ornare gravida elit vitae
+
+----
+
+Tags: garantias,pymes,prestamo,credito
+
+----
+
+Url: 
