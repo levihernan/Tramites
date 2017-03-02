@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Title: Fondo Aceleración
+=======
+Title: Fondo aceleracion
+>>>>>>> origin/master
 
 ----
 
@@ -10,7 +14,11 @@ Description:
 
 ----
 
+<<<<<<< HEAD
 Tags: da-plata,anr,hasta-750-mil-pesos,grandes-usos-energeticos
+=======
+Tags: anr,aceleradorabasetecnologica,aceleradorabasecientifica,aceleradora,aceleradorasociales,hasta750mil
+>>>>>>> origin/master
 
 ----
 

@@ -10,7 +10,11 @@ Description:
 
 ----
 
+<<<<<<< HEAD
 Tags: anr,pymes,menos-de-400,60-porciento-del-proyecto,gastos-en-capacitaciones,gastos-en-servicios-profesionales,gastos-en-b-de-c,b-de-c,gastos-en-certificacion,menos-de-2-años-pyme
+=======
+Tags: anr,pymes,financiamiento,gastosenbdec,bdec,gastosencertificacion,gastosenserviciosprofesionales,gastosencapacitaciones,hasta400mil,60porcientodelproyecto,pymedemasde2anos
+>>>>>>> origin/master
 
 ----
 
